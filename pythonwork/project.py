@@ -153,7 +153,7 @@ class Grid:
 
 
 class Cube:
-    rows = 10
+    rows = 9
     cols = 9
 
     def __init__(self, value, row, col, width, height):
